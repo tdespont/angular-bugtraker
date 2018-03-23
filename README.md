@@ -1,8 +1,6 @@
 # angular-bugtraker
-A simple bug traker application build with angular
 
-# AngularBugTraker
-
+A simple bug traker application build with angular.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
